@@ -7,11 +7,14 @@ De instructies van deze opdracht staan in [WIKI](https://github.com/fdnd-task/wc
 
 ## Titel Website
 
-Welke website heb je getest? Beschrijf de website en voeg een screenshot toe.
+Ik heb de website indebuurt.nl/woerden gekozen als mijn test-website.
+<img width="942.5" height="516" alt="image" src="https://github.com/user-attachments/assets/2406a962-8289-4ea9-9433-48fdf1e822d1" />
+Dit is een nieuws website dat nieuws publiceert over de stad waar ik woon: Woerden en alles eromheen.
 
-Toon een screenshot van het Lighthouse Accessibility testresultaat.
+<img width="763" height="730" alt="image" src="https://github.com/user-attachments/assets/9b9b9e16-09f9-4edb-af56-fa1d0b28ce04" />
 
-Schrijf een samenvatting van de testbevindingen, en link naar je Wiki voor de volledige documentatie.
+
+Dit is gewoon een prima website, op een paar kleine dingen na die te overzien zijn. Zie uitgebreide uitleg: 
 
 ## Licentie
 
