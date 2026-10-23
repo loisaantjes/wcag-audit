@@ -14,7 +14,8 @@ Dit is een nieuws website dat nieuws publiceert over de stad waar ik woon: Woerd
 <img width="763" height="730" alt="image" src="https://github.com/user-attachments/assets/9b9b9e16-09f9-4edb-af56-fa1d0b28ce04" />
 
 
-Dit is gewoon een prima website, op een paar kleine dingen na die te overzien zijn. Zie uitgebreide uitleg: 
+Dit is gewoon een prima website, op een paar kleine dingen na die te overzien zijn.
+Zie uitgebreide uitleg: https://github.com/loisaantjes/wcag-audit/wiki
 
 ## Licentie
 
